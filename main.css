@@ -125,7 +125,7 @@ body {
 		margin-top:15px
 	}
 }
-@media (max-height: 770px) {
+@media (min-height: 770px) {
 	.section .image img {
 		height: 125px;
 	}
